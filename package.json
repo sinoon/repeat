@@ -1,0 +1,21 @@
+{
+  "name": "repeat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "farrow dev",
+    "build": "farrow build",
+    "start": "farrow start"
+  },
+  "keywords": [],
+  "author": "shangnan",
+  "license": "ISC",
+  "dependencies": {
+    "farrow": "^1.4.1",
+    "farrow-cors": "^1.4.0",
+    "farrow-http": "^1.4.0",
+    "farrow-pipeline": "^1.4.0",
+    "farrow-schema": "^1.4.0"
+  }
+}
